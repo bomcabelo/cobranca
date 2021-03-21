@@ -12,6 +12,7 @@ Perceba que, ao fazer o git clone, o projeto é baixado para a sua máquina, e u
 ![image](https://user-images.githubusercontent.com/377344/111902293-9d230480-8a1b-11eb-9c62-68d73d29c5db.png)
 # Procurar a pasta
 ![image](https://user-images.githubusercontent.com/377344/111902501-87faa580-8a1c-11eb-8232-e931f148f9f4.png)
+# Tente... e depois, tente novamente By Normandes Júnior
 
 
 
